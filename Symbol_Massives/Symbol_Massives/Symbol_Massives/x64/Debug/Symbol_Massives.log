@@ -1,0 +1,4 @@
+﻿  BitString.cpp
+c:\users\dante\source\repos\symbol_massives\symbol_massives\symbol_massives\bitstring.cpp(24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Symbol_Massives.vcxproj -> C:\Users\Dante\source\repos\Symbol_Massives\Symbol_Massives\x64\Debug\Symbol_Massives.exe
+  Symbol_Massives.vcxproj -> C:\Users\Dante\source\repos\Symbol_Massives\Symbol_Massives\x64\Debug\Symbol_Massives.pdb (Partial PDB)

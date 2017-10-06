@@ -1,0 +1,4 @@
+﻿  String.cpp
+c:\users\dante\source\repos\symbol_massives\symbol_massives\string.cpp(40): warning C4172: возвращение адреса локальной или временной переменной
+  Symbol_Massives.vcxproj -> C:\Users\Dante\source\repos\Symbol_Massives\Debug\Symbol_Massives.exe
+  Symbol_Massives.vcxproj -> C:\Users\Dante\source\repos\Symbol_Massives\Debug\Symbol_Massives.pdb (Partial PDB)
