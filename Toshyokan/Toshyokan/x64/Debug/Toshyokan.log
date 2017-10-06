@@ -1,0 +1,7 @@
+﻿  Book.cpp
+c:\users\dante\source\repos\toshyokan\toshyokan\book.cpp(141): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\dante\source\repos\toshyokan\toshyokan\book.cpp(145): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\dante\source\repos\toshyokan\toshyokan\book.cpp(170): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\dante\source\repos\toshyokan\toshyokan\book.cpp(174): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Toshyokan.vcxproj -> C:\Users\Dante\source\repos\Toshyokan\x64\Debug\Toshyokan.exe
+  Toshyokan.vcxproj -> C:\Users\Dante\source\repos\Toshyokan\x64\Debug\Toshyokan.pdb (Partial PDB)
